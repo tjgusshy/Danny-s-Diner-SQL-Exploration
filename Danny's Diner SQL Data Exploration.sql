@@ -2,8 +2,8 @@
 --CASE STUDY #1: DANNY'S DINER--
 --------------------------------
 
---Author: Katie Huang
---Date: 16/07/2021 (updated 02/08/2021)
+--Author: Adetunji
+--Date: 19/03/2022 (updated 02/08/2021)
 --Tool used: MS SQL Server
 
 CREATE SCHEMA dannys_diner;
